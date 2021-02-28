@@ -9,7 +9,7 @@ description: >
 image:
   path: /assets/img/devlog/common/json.png
 related_posts:
-  - _posts/category/devlog/Golang/slackbot/2021-02-26-how-to-use-slack.md
+  - _posts/devlog/Golang/slackbot/2021-02-26-how-to-use-slack.md
 ---
 JSON : **J**ava**S**cript **O**bject **N**otation <br>
 
