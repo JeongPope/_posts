@@ -1,7 +1,7 @@
 ---
 layout: post
 category: devlog
-tags: golang slack
+tags: golang
 title: "Golang package : encoding/json"
 subtitle: "Golang package : encoding/json"
 description: >
@@ -9,7 +9,7 @@ description: >
 image:
   path: /assets/img/devlog/common/json.png
 related_posts:
-  - _posts/devlog/Golang/slackbot/2021-02-26-how-to-use-slack.md
+  - _posts/devlog/Golang/slackbot/2021-03-01-send-json-with-block-kit.md
 ---
 JSON : **J**ava**S**cript **O**bject **N**otation <br>
 

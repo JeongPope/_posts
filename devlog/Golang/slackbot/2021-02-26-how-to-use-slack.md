@@ -9,7 +9,7 @@ description: >
 image:
   path: /assets/img/devlog/common/slack.jpg
 related_posts:
-  - _posts/devlog/Golang/package/2021-02-28-slack-json-msg.md
+  - _posts/devlog/Golang/slackbot/2021-03-01-send-json-with-block-kit.md
 ---
 
 <!--more-->
