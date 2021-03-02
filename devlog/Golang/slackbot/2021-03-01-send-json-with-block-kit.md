@@ -5,7 +5,7 @@ tags: golang slack
 title: "Slack app with Golang - JSON"
 subtitle: "Slack App - 2"
 description: >
-  'Slack block kit'을 사용하여 'Bot(app)' 메세지를 커스텀 해봅니다.
+  'Slack block kit'을 사용하여 'Bot(app)' 메세지를 커스텀한 경험을 기록합니다.
 image:
   path: /assets/img/devlog/common/slack.jpg
 related_posts:
