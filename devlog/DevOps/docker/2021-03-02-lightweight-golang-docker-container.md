@@ -7,7 +7,7 @@ subtitle: "Lightweight golang docker container"
 description: >
   멀티스테이지 빌드를 사용하여 Golang 컨테이너를 경량화 하는 방법을 기록하였습니다.
 image:
-  path: /assets/img/devlog/devops/2021-03-02/main.png
+  path: /assets/img/devlog/devops/docker/2021-03-02/main.png
 ---
 
 slack app을 만들고 나서, 도커 이미지로 빌드를 했더니 700MB 이상의 크기나 되는 이미지가 만들어졌습니다.<br>
@@ -103,6 +103,3 @@ slackbot            0.1                 52139609f4e0        20 hours ago        
 - `scratch` 이미지에는 암호화된 통신을 위한 CA 인증서가 들어있지 않습니다. 때문에 HTTPS를 비롯한 SSL 통신을 하는 경우 오류가 발생하게 됩니다.
 - 간혹 유저 관리를 위해 `/etc/passwd` 바이너리 등이 필요한 때도 있습니다.
 - 또한 `scratch` 는 디버그가 어렵습니다. alpine을 씁시다.
-
-## Next
-- Slack app with Golang - File Upload
